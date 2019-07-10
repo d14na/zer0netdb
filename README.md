@@ -8,8 +8,8 @@
 
 ## Verified (Ropsten) Contract
 
-**[0x4C2f68bCdEEB88764b1031eC330aD4DF8d6F64D6](https://etherscan.io/address/0x4C2f68bCdEEB88764b1031eC330aD4DF8d6F64D6)**
+**[0x4C2f68bCdEEB88764b1031eC330aD4DF8d6F64D6](https://ropsten.etherscan.io/address/0x4C2f68bCdEEB88764b1031eC330aD4DF8d6F64D6)**
 
 ## Verified (Kovan) Contract
 
-**[0x3e246C5038287DEeC6082B95b5741c147A3f49b3](https://etherscan.io/address/0x3e246C5038287DEeC6082B95b5741c147A3f49b3)**
+**[0x3e246C5038287DEeC6082B95b5741c147A3f49b3](https://kovan.etherscan.io/address/0x3e246C5038287DEeC6082B95b5741c147A3f49b3)**
